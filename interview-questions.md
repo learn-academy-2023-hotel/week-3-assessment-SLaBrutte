@@ -8,21 +8,21 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is JSX? What is one syntax difference between HTML and JSX?
 
-Your answer:
+Your answer: A combination of HTML and JS.
 
-Researched answer:
+Researched answer: JSX allows us to write HTML code into our Javsscript file and places them into the DOM.
 
 2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
 
-Your answer:
+Your answer: Yarn is a package manager.
 
-Researched answer:
+Researched answer: Yarn is a package manager that allows people to use and share developers code around the world. 
 
 3. What is the difference between state values and props in React?
 
-Your answer:
+Your answer: N/A
 
-Researched answer:
+Researched answer: Props are a read only value where state changes an be asynhoronous. Props are immutate and state is mutable.  Stateless components can have props but a not a state.
 
 4. STRETCH: Which is the difference between a div tag and a span tag?
 
