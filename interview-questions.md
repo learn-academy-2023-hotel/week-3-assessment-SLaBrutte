@@ -16,7 +16,7 @@ Researched answer: JSX allows us to write HTML code into our Javsscript file and
 
 Your answer: Yarn is a package manager.
 
-Researched answer: Yarn is a package manager that allows people to use and share developers code around the world. 
+Researched answer: Yarn is a package manager that encompasses Node.js and allows people to use and share developers code around the world. It was created by Sebastian McKenzie of Meta.
 
 3. What is the difference between state values and props in React?
 
@@ -26,12 +26,12 @@ Researched answer: Props are a read only value where state changes an be asynhor
 
 4. STRETCH: Which is the difference between a div tag and a span tag?
 
-Researched answer:
+Researched answer: A div is used for: page styling and block level oragnization. A span tag is used for: page stling and organization within a SPECIFIC portion of a page. 
 
 ## Looking Ahead: Terms for Next Week
 
-1. DOM: 
+1. DOM: (Documented Object Model) contains both the data and structure of a web document. It is a representation of the page which allows programs to change thier document style, structure and content. 
 
-2. Object-oriented programming:
+2. Object-oriented programming: A software development tactic in which it focuses on sculpting and defining named classes as entities with attributes and behaviors. A use of this is being able to reuse and main code easier.
 
-3. Ruby:
+3. Ruby: is an open source, object oriented programming language. It is a dynamically typed, server side scripting language that is used for general purpose.
